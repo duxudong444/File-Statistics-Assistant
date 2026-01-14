@@ -1,4 +1,4 @@
-# DemoOne
+# File-Statistics-Assistant
 
 这是一个使用 Trae IDE 开始的演示项目。
 
@@ -24,7 +24,7 @@
 ## 项目结构
 
 ```
-DemoOne/
+File-Statistics-Assistant/
 ├── src/
 │   └── file_stats.py    # 主程序
 ├── tests/
@@ -45,7 +45,7 @@ DemoOne/
 1. 克隆项目（如果使用 Git）：
    ```bash
    git clone <项目地址>
-   cd DemoOne
+   cd File-Statistics-Assistant
    ```
 
 2. 创建虚拟环境（推荐）：
